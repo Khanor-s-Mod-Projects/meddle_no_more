@@ -8,7 +8,7 @@ tags={
 	"Gameplay"
 	"Ideologies"
 }
-picture="meddle_no_more.jpg"
-supported_version="1.9.*"
-path="C:/Users/jonpe/Documents/Paradox Interactive/Hearts of Iron IV/mod/meddle_no_more"
+picture="thumbnail.png"
+version="1.0.3"
+supported_version="1.11.*"
 remote_file_id="1410863725"
